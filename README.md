@@ -7,7 +7,7 @@
 [![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A519.10.0-brightgreen.svg)](https://www.nextflow.io/)
 
 [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg)](http://bioconda.github.io/)
-[![Docker](https://img.shields.io/docker/automated/nfcore/test.svg)](https://hub.docker.com/r/nfcore/test)
+[![Docker](https://img.shields.io/docker/automated/nfcore/test.svg)](https://hub.docker.com/repository/docker/flomicsbiotech/joao-test/)
 
 ## Introduction
 
