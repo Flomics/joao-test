@@ -1,4 +1,4 @@
-FROM nfcore/base:1.9
+FROM flomicsbioinf
 LABEL authors="Joao" \
       description="Docker image containing all software requirements for the nf-core/test pipeline"
 
